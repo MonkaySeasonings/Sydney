@@ -3,24 +3,13 @@ export default function Header({ title }) {
     <>
       <h1 className="title">{title}</h1>
       <p>
-        Hi 👋! This template gives you a{" "}
-        <a href="https://nextjs.org/">Next.js</a> app with the scaffolding for{" "}
-        <a href="https://www.netlify.com/products/functions/">
-          Netlify Functions
-        </a>
-        , <a href="https://www.netlify.com/products/forms/">Forms</a>, and{" "}
-        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
-        aim was to give you the code you would need to hit the ground running
-        with a few fun features.
-      </p>
+        <strong>Hi 👋!</strong>
+        <p>Welcome to my blog, fellow techies and film enthusiasts! I'm a self-proclaimed coding wizard who spends most of their free time tinkering with new web technologies and experimenting with the latest programming trends. But when I'm not typing away at my keyboard, you can usually find me lounging on my couch, binge-watching movies and making bad puns.</p>
+<p>Here on my blog, I'll be sharing all sorts of tips, tricks, and tutorials for anyone interested in the world of web development and technology. Whether you're a beginner or an experienced developer, there's something here for everyone!</p>
+<p>But don't worry, this blog isn't all code and no play. I'll also be sharing my thoughts on the latest movie releases, discussing my favorite films, and sharing some truly terrible puns along the way.</p>
+<p>So sit back, relax, and get ready to dive into the wonderful world of code, movies, and puns. Thanks for visiting, and I can't wait to share my adventures with you!</p>
 
-      <p>
-        You can find the code for this project on GitHub at{" "}
-        <a href="https://github.com/netlify-templates/nextjs-toolbox">
-          https://github.com/netlify-templates/nextjs-toolbox
-        </a>
-        ! Happy coding!
-      </p>
+      <p>Happy coding!</p>
     </>
   );
 }
