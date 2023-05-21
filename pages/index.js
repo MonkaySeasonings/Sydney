@@ -16,8 +16,7 @@ export default function Home() {
         <Header title="Next.js Toolbox" />
         <hr />
         <p className="description">
-          Here's an example of a Netlify Form! When you fill this out, the
-          submissions can be found in the Netlify Admin site.
+          There's a lot to see and do on the web and when I'm note experimenting with scripts, I'm trying to <a href="https://www.freetubetv.net">watch free tv online</a> to find wacky international shows.
         </p>
         <FeedbackForm />
         <JokeBlock />
